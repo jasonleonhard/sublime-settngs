@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"Abstract Markup Language",
+		"Autoprefixer",
+		"Better CoffeeScript",
+		"Emmet",
+		"File Navigator",
+		"GitGutter",
+		"JSHint",
+		"LESS",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Sass",
+		"SASS Snippets",
+		"Search Stack Overflow",
+		"SFTP",
+		"STProjectMaker",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeServer",
+		"TernJS"
+	]
+}

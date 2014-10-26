@@ -1,0 +1,25 @@
+{
+    
+    /* The toggle_setting command can be used to toggle a setting. For
+    /* example, to make a key binding that toggles the word_wrap setting on
+    /* the current file, you can use (in Preferences/Key Bindings - User):*/
+
+    "keys": ["alt+w"],
+    "command": "toggle_setting",
+    "args":
+    {
+        "setting": "word_wrap"
+    },
+
+    /* The set_setting command can be used to set a setting to a specific
+    /* value. For example, this key binding makes the current file use the
+    /* Cobalt color scheme:*/
+    
+    "keys": ["ctrl+k", "ctrl+c"],
+    "command": "set_setting",
+    "args":
+    {
+        "setting": "color_scheme",
+        "value": "Packages/Color Scheme - Default/Cobalt.tmTheme"
+    }
+}
